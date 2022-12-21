@@ -1,7 +1,6 @@
 # DijkstrasAlgorithm
- Implemented Utilizing a Nested Map
 
-**Dijkstra’s Algorithm** finds the shortest path from one vertex to another given a graph of vertices and edges.
+Finds the shortest path between two vertices by implementing an undirected weighted Graph ADT and performing **Dijkstra's Algorithm**.
 
 ## Design 
 
