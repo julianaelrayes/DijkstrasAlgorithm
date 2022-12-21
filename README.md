@@ -14,14 +14,6 @@
 * [x] The function removeEdge, removes an edge between two inputted vertex labels. As long as both labels exist, it is checked that the second vertex can be found within the adjacency map of the first vertex. If this can be found, the edge between the two labels is erased.
 * [x] The function shortestPath finds the shortest possible path between two inputted vertices. 
 
-## Video of Implementation
-
-Here's a walkthrough of implemented user stories:
-
-<img src='https://user-images.githubusercontent.com/95254925/208816129-d781bc3d-e077-48e5-a851-c7c7fff8b324.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-
-
-
 
 ## License
 
