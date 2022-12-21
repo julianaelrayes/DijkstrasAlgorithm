@@ -1,8 +1,6 @@
 # DijkstrasAlgorithm
  Dijkstra’s Algorithm Implemented Utilizing a Nested Map
 
-# Tip Calculator
-
 **Dijkstra’s Algorithm** finds the shortest path from one vertex to another given a graph of vertices and edges.
 
 ## Design 
