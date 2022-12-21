@@ -1,5 +1,5 @@
 # DijkstrasAlgorithm
- Dijkstra’s Algorithm Implemented Utilizing a Nested Map
+ Implemented Utilizing a Nested Map
 
 **Dijkstra’s Algorithm** finds the shortest path from one vertex to another given a graph of vertices and edges.
 
