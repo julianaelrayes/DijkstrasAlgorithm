@@ -18,7 +18,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-![kjGThvM - Imgur](https://user-images.githubusercontent.com/95254925/208816129-d781bc3d-e077-48e5-a851-c7c7fff8b324.gif)
+<img src='https://user-images.githubusercontent.com/95254925/208816129-d781bc3d-e077-48e5-a851-c7c7fff8b324.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 
 
